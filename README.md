@@ -4,7 +4,8 @@ A software stack is a collection of independent components that work together to
 
 There are acronyms for individual technologies used together for a specific technology product. Some examples are…
 
-LAMP (Linux, Apache, MySQL, PHP or Python, or Perl)
-LEMP (Linux, Nginx, MySQL, PHP or Python, or Perl)
-MERN (MongoDB, ExpressJS, ReactJS, NodeJS)
-MEAN (MongoDB, ExpressJS, AngularJS, NodeJS
++ LAMP (Linux, Apache, MySQL, PHP or Python, or Perl)
+  
++ LEMP (Linux, Nginx, MySQL, PHP or Python, or Perl)
++ MERN (MongoDB, ExpressJS, ReactJS, NodeJS)
++ MEAN (MongoDB, ExpressJS, AngularJS, NodeJS
